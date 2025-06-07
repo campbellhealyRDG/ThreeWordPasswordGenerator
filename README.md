@@ -6,7 +6,5 @@ If you want a different list, replace the URL with any plaintext file with one w
 requests is included in most Python installations; if needed, install it via:
 
 bash
-Copy
-Edit
 pip install requests
-Let me know if you’d like the script to cache the list locally after the first fetch, or if you want HTTPS validation/logging added.
+
